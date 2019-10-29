@@ -1,0 +1,38 @@
+{
+  "name": "Goomell.com",
+  "short_name": "Goomell",
+  "start_url": "https://www.goomell.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang tutorial, trik, Game, Informasi Dan Internet.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-XWueL2Jt1MA/Xbh-L-ppocI/AAAAAAAAIBA/DS2cHNBMdhMLmoVFalh6yz535DsX9OdsQCLcBGAsYHQ/s1600/icon48-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9fRxpEA1jIw/Xbh-JSb1YhI/AAAAAAAAIAs/wVj5CX-N7aUNC8yPnP8U4oNmdXdNLdl3gCLcBGAsYHQ/s1600/icon%2B-72-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gSVNjKPkRcw/Xbh-LOi_ghI/AAAAAAAAIA8/-QL-EVssgWExBPQBltN6U4sLM_a_EdP_QCLcBGAsYHQ/s1600/icon-96-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ej34lvbxODw/Xbh-JTnGK3I/AAAAAAAAIAo/2Q0snQ8O1FUIno0wyQiuSir7FNQ3ilc0ACLcBGAsYHQ/s1600/icon-144-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JcTnH962-Mk/Xbh-JTDRQhI/AAAAAAAAIAw/Zsegpwe7v-o1vKzG0SY008AGpSC-nVS-gCLcBGAsYHQ/s1600/icon-168-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PyFkrVJpjC0/Xbh-KuFvjgI/AAAAAAAAIA0/XkD7K8TmcB86nsp4EBRE4C72pfvDF5u7gCLcBGAsYHQ/s1600/icon-192-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZVezceJQ1mw/Xbh-KxZPSAI/AAAAAAAAIA4/Hywatu3mitYbSA_P3yCKptF5RDUOGu6YwCLcBGAsYHQ/s1600/icon-512-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
